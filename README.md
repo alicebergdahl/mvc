@@ -1,3 +1,3 @@
-# Example Repository
+# mvc
 
-This repository is mainly for teaching purposes, as a way to show of Git and GitHub.
+Detta repo innehåller alla filer för kursen mvc.
